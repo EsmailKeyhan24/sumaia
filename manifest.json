@@ -1,0 +1,23 @@
+
+{
+    "name": "SumainDevloper",
+    "short_name": "SumaiaSafdari",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#333",
+    "theme_color": "#222",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "assets/img/lg.png.jpg",
+            "type": "image/jpg",
+            "sizes": "512×512",
+            "purpose": "PortFolio"
+        },
+        {
+            "src": "assets/img/1402.jpg",
+            "sizes": "144x144",
+            "type": "image/jpg"
+        }
+    ]
+}
