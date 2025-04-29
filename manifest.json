@@ -9,15 +9,15 @@
     "orientation": "portrait-primary",
     "icons": [
         {
-            "src": "assets/img/lg.png.jpg",
-            "type": "image/jpg",
+            "src": "assets/img/lg.png",
+            "type": "image/png",
             "sizes": "512×512",
             "purpose": "PortFolio"
         },
         {
-            "src": "assets/img/1402.jpg",
+            "src": "assets/img/sm.png",
             "sizes": "144x144",
-            "type": "image/jpg"
+            "type": "image/png"
         }
     ]
 }

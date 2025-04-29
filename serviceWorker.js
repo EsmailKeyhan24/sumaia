@@ -2,7 +2,7 @@ const staticCacheName = "site-static-v1";
 const cacheAssets = [
     "index.html",
     "assets/stylesheet/app.css",
-    "assets/img/lg.png.jpg"
+    "assets/img/lg.png"
 ];
 self.addEventListener("install", evt => {
     evt.waitUntil(
